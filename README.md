@@ -6,7 +6,9 @@
 
 ## Orphelin Du Ciel : une vie, Une histoire !!!
 
-[![Watch the video](https://img.youtube.com/vi/wbI4DqWdReE/0.jpg)](https://www.youtube.com/watch?v=wbI4DqWdReE)
+<a href="https://www.youtube.com/watch?v=wbI4DqWdReE" target="_blank">
+  <img src="https://img.youtube.com/vi/wbI4DqWdReE/0.jpg" alt="Watch the video" width="600" height="400" />
+</a>
 
 
 
