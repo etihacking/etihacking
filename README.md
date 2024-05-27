@@ -4,17 +4,7 @@
 
 <hr/>
 
-## Orphelin Du Ciel : une vie, Une histoire !!!
 
-<a href="https://www.youtube.com/watch?v=wbI4DqWdReE" target="_blank">
-  <img src="https://img.youtube.com/vi/wbI4DqWdReE/0.jpg" alt="Watch the video" width="1000" height="850" />
-</a>
-
-<a href="https://drive.google.com/file/d/1778pjl_DimNauuudX0S7nAfnagraxy6l/view?usp=sharing"></a>
-
-<hr/>
-
-[Nuits Noires](https://drive.google.com/file/d/1778pjl_DimNauuudX0S7nAfnagraxy6l/view?usp=sharing)
 
 
 
